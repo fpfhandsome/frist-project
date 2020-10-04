@@ -34,4 +34,7 @@ public class StudentTest{
         int i = studentService.addStudent(student);
         System.out.println(i);
     }
+    public void test3(){
+        System.out.println("kkkk");
+    }
 }
